@@ -2,6 +2,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Static](https://img.shields.io/badge/Static-No%20Dependencies-brightgreen?style=flat-square)
+![CDSS](https://img.shields.io/badge/CDSS-Clinical%20Decision%20Support-0056b3?style=flat-square&logo=health&logoColor=white)
 
 # 🩺 Neonatal Pain Management / مدیریت درد نوزادان
 [https://8navid.github.io/neonatal-pain-care/](https://8navid.github.io/neonatal-pain-care/)
