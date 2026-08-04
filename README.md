@@ -58,10 +58,12 @@ Research has shown that neonates whose pain is not properly managed are at highe
 - Clinical Researchers in Neonatology / پژوهشگران بالینی در حوزه نوزادان
 
 ---
-8navid@gmail.com
+
 
 ## 📜 Disclaimer | نکته مهم
 
 This tool is designed for **clinical decision support and educational purposes** only. Final clinical decisions must always be made by qualified healthcare professionals based on the patient's full condition.
 
 این ابزار صرفاً برای **کمک به تصمیم‌گیری بالینی و اهداف آموزشی** طراحی شده است. تصمیمات نهایی درمانی همواره باید توسط کادر درمان مجرب و بر اساس وضعیت کامل بیمار اتخاذ شود.
+---
+8navid@gmail.com
